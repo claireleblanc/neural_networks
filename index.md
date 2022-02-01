@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Project Proposal: Using Neural Networks to Predict Cross Country and Track Race Times
 
-You can use the [editor on GitHub](https://github.com/claireleblanc/neural_networks/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Project Description
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Cross country and track races and governed by a miriad of factors, such that it is impossible to predict exactly what will happen. On one weekend, one person will win, and the next weekend, with almost the exact same competitiors and course, someone else will come out victorious. Despite the difficult posed in predicting races, there is no shortage of attempts, and many runners spend hours pouring over race results and prediction websites. 
 
-### Markdown
+This project will train neural networks to predict the results of a race using previous race results from a variety of courses, weather conditions, time of day, etc. While there will always be uncertainty in races, this project could help people to set achievable goals, metally prepare for race day, and see if there are any hidden factors influencing race results. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Project Goals
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/claireleblanc/neural_networks/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Train a neural network to predict the results of a cross country or track race of a specific distance
+- Expand the NN to perdict the results of races of any distance
+- Determine if there are any hidden factors that influence race results
+- Explore the ethical implications of these sorts of predictions, and how this could change the sport
